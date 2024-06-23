@@ -12,5 +12,5 @@ This project touches the following notions:
 - sending an email from an HTML page
 # Preview of the application through some screenshots
 ![Screenshot 2024-06-23 at 15-20-04 AzertType](https://github.com/Eleonor2004/AzerType/assets/149597609/afb0160c-5860-4300-9210-b3496e9c93e9)
-![Screenshot 2024-06-23 at 15-20-04 AzertType](https://github.com/Eleonor2004/AzerType/assets/149597609/33c50646-3b57-48fa-aebb-bb308f0a229c)
+![Screenshot 2024-06-23 at 15-23-06 AzertType](https://github.com/Eleonor2004/AzerType/assets/149597609/ba7bee3b-4970-43f1-9833-79d2d383ab37)
 
